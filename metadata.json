@@ -1,0 +1,6 @@
+{
+  "name": "Treasures by Mudaso",
+  "description": "UK Personal Shopper for Nigeria. Authentic UK fragrance, groceries, essentials, and wellness delivered to Abuja, Kano, and nationwide with flexible instalments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
